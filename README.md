@@ -39,3 +39,4 @@ Voici deux visuels avec PowerBI
 ### Animation
 ![Modele](img/Animationpbi.gif)
 ## Conclusion
+*Ce projet a permis une analyse très fine des KPI et donc un pilotage plus précis, en utilisant la base de donnée CONTOSO sur SSAS, Power BI et Excel*
