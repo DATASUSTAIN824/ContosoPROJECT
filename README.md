@@ -23,15 +23,15 @@
 ![Modele](img/modele.png)
 
 ## Excel
-
+Voici deux visuels avec Excel
 ### Pivot Table
-
+![Modele](img/TabC.png)
 ### Histogramme
-
+![Modele](img/Excel1.png)
 ## PowerBI
-
+Voici deux visuels avec PowerBI
 ### Visuel 1
-
+![Modele](img/KPI.png)
 ### Visuel 2
-
+![Modele](img/Previsions.png)
 ## Conclusion
