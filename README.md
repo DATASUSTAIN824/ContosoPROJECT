@@ -15,7 +15,7 @@
     - [Visuel 2](#visuel-2)
   - [Conclusion](#conclusion)
 
--[Conclusion](#conclusion)
+
 
 ## Introduction
 
