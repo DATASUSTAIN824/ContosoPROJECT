@@ -20,6 +20,8 @@
 
 ## Modèle Tabulaire
 
+![Modele](img/modele.png)
+
 ## Excel
 
 ### Pivot Table
