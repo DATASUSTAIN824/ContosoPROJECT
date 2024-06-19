@@ -10,6 +10,7 @@
 - [PowerBI](#powerbi)
   - [Visuel 1](#visuel-1)
   - [Visuel 2](#visuel-2)
+  - [Animation](#animation)
 - [Conclusion](#conclusion)
 
 -[Conclusion](#conclusion)
@@ -35,6 +36,6 @@ Voici deux visuels avec PowerBI
 ### Visuel 2
 ![Modele](img/Previsions.png)
 
-###Animation
+### Animation
 ![Modele](img/Animationpbi.gif)
 ## Conclusion
