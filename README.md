@@ -2,7 +2,6 @@
 
 
 
--- [PROJET Contoso](#projet-contoso)
 - [PROJET Contoso](#projet-contoso)
   - [Table des matières](#table-des-matières)
   - [Introduction](#introduction)
