@@ -34,4 +34,7 @@ Voici deux visuels avec PowerBI
 ![Modele](img/KPI.png)
 ### Visuel 2
 ![Modele](img/Previsions.png)
+
+###Animation
+![Modele](img/Animationpbi.gif)
 ## Conclusion
